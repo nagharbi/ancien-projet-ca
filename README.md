@@ -25,7 +25,9 @@ _Rapport d’optimisation_
 * Comparatif des résultats
 
 ## Outils utilisés
-L'IDE que j'ai utilisé est *Visual Studio Code*.  
-Le site passe le **W3C** pour HTML et CSS. **Pas encore** 
-Utilisation de [Wave](https://wave.webaim.org/) pour vérifier l'accessibilité. **A vérifier**  
-Utilisation de [GtMetrix](https://gtmetrix.com/) pour vérifier l'optimisation. **A vérifier**
+* L'IDE que j'ai utilisé est *Visual Studio Code*. 
+* Le site passe le **W3C** pour HTML et CSS. **Pas encore**
+* Utilisation de [Wave](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/) pour évaluer l'accessibilité du Web.
+* Utilisation de [GtMetrix](https://gtmetrix.com/) pour vérifier l'optimisation. **A vérifier**
+* Utilisation de [Performance Analyser](https://addons.mozilla.org/en-US/firefox/addon/performance-analyser/) pour vérifier le temps de chargement.
+* Utilisation de [Lighthouse](https://addons.mozilla.org/en-US/firefox/addon/google-lighthouse/) pour améliorer les performances, la qualité et l'exactitude d'une applications Web
